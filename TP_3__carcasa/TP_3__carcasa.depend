@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1510006906 source:c:\users\isa silvana lado\desktop\abbul -c-\tp_3__carcasa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1510006906 c:\users\isa silvana lado\desktop\abbul -c-\tp_3__carcasa\funciones.h
+
+1510007911 source:c:\users\isa silvana lado\desktop\abbul -c-\tp_3__carcasa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508339426 source:e:\tp_3__carcasa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508338502 e:\tp_3__carcasa\funciones.h
+
+1508338480 source:e:\tp_3__carcasa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
